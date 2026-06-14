@@ -1,17 +1,17 @@
 {
-  "name": "@Xrelly-stack/bails",
+  "name": "@MULZMAKER/bails",
   "version": "1.0.0",
-  "description": "WhatsApp Modified By Xrelly-stack",
+  "description": "WhatsApp Modified By MulzyX7",
   "keywords": [
     "whatsapp-baileys"
   ],
-  "homepage": "https://github.com/Xrelly-stack/bails",
+  "homepage": "https://github.com/MULZMAKER/bails",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xrelly-stack/bails.git"
+    "url": "git+https://github.com/MULZMAKER/bails.git"
   },
   "license": "MIT",
-  "author": "Xrelly-stack",
+  "author": "MULZMAKER",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -102,6 +102,6 @@
     "node": ">=20.0.0"
   },
   "bugs": {
-    "url": "https://github.com/Xrelly-stack/bails/issues"
+    "url": "https://github.com/MULZMAKER/bails/issues"
   }
 }
